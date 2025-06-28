@@ -24,7 +24,7 @@ When I returned to the MobileReads forum, I realised I had been shadow-banned an
 So when it was time to release the plugin, I skipped the MobileReads forum as I knew I couldn't release the plugin officially, I posted the plugin pack to the Calibre Reddit page.
 Within seconds of the Plugin pack being posted to the Calibre Reddit page, it had already received 100s of downvotes from their community, which seemed odd, but I thought that as time passed, more average users might stumble upon the plugin pack and find it useful. It started gaining traction, so even though they had downvoted the post to oblivion. Others were finding it useful.
 
-Then I received a notification that my post had breached Calibre Reddit group's terms and conditions, and my account had been banned. The post was a collection of screenshots of the plugin, plus a link to a user guide and to download the plugin pack.
+Then I received a notification that my post had breached Calibre Reddit group's terms and conditions, and my account had been banned. (Just from the Calibre group, not all of Reddit) The post was a collection of screenshots of the plugin, plus a link to a user guide and to download the plugin pack.
 
 I never realised that people in an open-source community could be so hostile to others just trying to help their community.
 
