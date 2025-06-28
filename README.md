@@ -30,6 +30,8 @@ I never realised that people in an open-source community could be so hostile to 
 
 Possibly with all the press about authors taking AI companies to court, maybe they see me as the enemy from within?
 Maybe they are so far behind the curve, they don't realise there is a curve?
+Maybe it's just part of a wider backlash and distrust of AI
+https://www.wired.com/story/generative-ai-backlash/
 
 Anyway, with being stopped at every turn from actually getting the plugins out there for people to use, I thought I would post the plugin toolkit to GitHub, somewhere they can't control.
 No doubt, they will post a removal request to GitHub or something to try and have it removed.
